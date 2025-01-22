@@ -8,18 +8,11 @@ This repository provides a solution for handling dynamic Right-to-Left (RTL) and
 
 1. **Locate the Snippets Folder**: Navigate to the following directory:
     
-    php
-    
-    CopyEdit
     
     `<LOCATIONVALUT>\.obsidian\snippets`
     
 2. **Clone the Repository**: Clone the contents of this repository:
-    
-    arduino
-    
-    CopyEdit
-    
+
     `https://github.com/sepehr-safaeian/Obsidian-PersianFont/`
     
 3. **Refresh Snippets**: Go to: `Settings > Appearance > CSS Snippets` Click the **Refresh** button to ensure the new snippets are loaded.
@@ -57,17 +50,9 @@ This customization ensures seamless support for both Persian and English content
 
 1. **یافتن پوشه Snippets**: به مسیر زیر بروید:
     
-    php
-    
-    CopyEdit
-    
     `<LOCATIONVALUT>\.obsidian\snippets`
     
 2. **کلون کردن ریپوزیتوری**: محتوای این ریپوزیتوری را کلون کنید:
-    
-    arduino
-    
-    CopyEdit
     
     `https://github.com/sepehr-safaeian/Obsidian-PersianFont/`
     
