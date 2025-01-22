@@ -1,3 +1,6 @@
+![Obsidian Lang Switch Screenshot](https://raw.githubusercontent.com/sepehr-safaeian/ObsidianLangSwitch/main/Capture.PNG)
+
+
 # Obsidian Persian Font and Smart RTL/LTR Toggle
 
 This repository provides a solution for handling dynamic Right-to-Left (RTL) and Left-to-Right (LTR) text directions in Obsidian. By default, Obsidian either supports a fixed language (English or Persian) or enforces a single text direction (RTL or LTR). However, with this solution, the text direction will automatically adjust based on the language content in a single note. Additionally, it applies different fonts for English and Persian content.
