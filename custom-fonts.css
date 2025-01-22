@@ -1,0 +1,25 @@
+/* Persian Text */
+.cm-s-obsidian, .markdown-preview-view {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+/* English Text */
+.cm-s-obsidian span.cm-word,
+.markdown-preview-view span {
+    direction: ltr;
+    unicode-bidi: embed;
+}
+
+/* RTL For Persian Text*/
+.cm-s-obsidian, .markdown-preview-view {
+    direction: rtl;
+    text-align: justify;
+}
+
+/* LTR For English Text*/
+.cm-s-obsidian span.cm-word.ltr,
+.markdown-preview-view span.ltr {
+    direction: ltr;
+    text-align: left;
+}
