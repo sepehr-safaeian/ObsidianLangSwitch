@@ -16,7 +16,7 @@ This repository provides a solution for handling dynamic Right-to-Left (RTL) and
     
 2. **Clone the Repository**: Clone the contents of this repository:
 
-    `https://github.com/sepehr-safaeian/Obsidian-PersianFont/`
+    `https://github.com/sepehr-safaeian/ObsidianLangSwitch/`
     
 3. **Refresh Snippets**: Go to: `Settings > Appearance > CSS Snippets` Click the **Refresh** button to ensure the new snippets are loaded.
     
