@@ -54,7 +54,7 @@ This customization ensures seamless support for both Persian and English content
     
 2. **کلون کردن ریپوزیتوری**: محتوای این ریپوزیتوری را کلون کنید:
     
-    `https://github.com/sepehr-safaeian/Obsidian-PersianFont/`
+    `https://github.com/sepehr-safaeian/ObsidianLangSwitch`
     
 3. **رفرش کردن Snippets**: به مسیر زیر بروید: `Settings > Appearance > CSS Snippets` و روی دکمه **Refresh** کلیک کنید تا Snippets جدید بارگذاری شوند.
     
