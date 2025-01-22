@@ -45,3 +45,52 @@ By following these steps, the system will intelligently apply the appropriate te
 ## Explanation
 
 This customization ensures seamless support for both Persian and English content within Obsidian, optimizing the reading and editing experience. Persian text will automatically be aligned to the right (RTL), while English text will be left-aligned (LTR), without requiring manual adjustments.
+
+
+# فونت فارسی و تغییر جهت متنی هوشمند در Obsidian
+
+این ریپوزیتوری راه‌حلی برای مدیریت تغییر جهت متن به صورت خودکار از راست به چپ (RTL) و چپ به راست (LTR) در Obsidian ارائه می‌دهد. به طور پیش‌فرض، Obsidian فقط از یک زبان خاص (انگلیسی یا فارسی) پشتیبانی می‌کند و یا باید از جهت ثابت (RTL یا LTR) استفاده کنید. اما با این راه‌حل، جهت متن به طور خودکار با توجه به زبان محتوا در هر صفحه تغییر خواهد کرد. همچنین فونت‌های مختلفی برای محتوای انگلیسی و فارسی اعمال می‌شود.
+
+---
+
+## نحوه پیاده‌سازی تغییر جهت هوشمند متن RTL و LTR:
+
+1. **یافتن پوشه Snippets**: به مسیر زیر بروید:
+    
+    php
+    
+    CopyEdit
+    
+    `<LOCATIONVALUT>\.obsidian\snippets`
+    
+2. **کلون کردن ریپوزیتوری**: محتوای این ریپوزیتوری را کلون کنید:
+    
+    arduino
+    
+    CopyEdit
+    
+    `https://github.com/sepehr-safaeian/Obsidian-PersianFont/`
+    
+3. **رفرش کردن Snippets**: به مسیر زیر بروید: `Settings > Appearance > CSS Snippets` و روی دکمه **Refresh** کلیک کنید تا Snippets جدید بارگذاری شوند.
+    
+
+---
+
+## نحوه اعمال تنظیمات فونت:
+
+1. **دسترسی به تنظیمات فونت**: به مسیر زیر بروید: `Settings > Appearance > Fonts`
+    
+2. **مدیریت فونت‌ها**: برای هر دو گزینه `Interface Font` و `Text Font` روی **Manage** کلیک کنید.
+    
+3. **انتخاب فونت‌ها**:
+    
+    - فونت **انگلیسی** (مثل "Arial", "Times New Roman") را انتخاب کنید.
+    - فونت **فارسی** (مثل "Vazir") را انتخاب کنید.
+
+با دنبال کردن این مراحل، سیستم به طور خودکار جهت متن مناسب (RTL برای فارسی و LTR برای انگلیسی) را اعمال کرده و فونت صحیح را برای هر زبان انتخاب می‌کند.
+
+---
+
+## توضیحات
+
+این شخصی‌سازی پشتیبانی بی‌وقفه‌ای از محتواهای فارسی و انگلیسی در Obsidian فراهم می‌آورد، تجربه خواندن و ویرایش را بهینه می‌کند. متن‌های فارسی به طور خودکار به راست (RTL) تنظیم خواهند شد، در حالی که متن‌های انگلیسی به صورت چپ (LTR) و بدون نیاز به تنظیمات دستی قرار خواهند گرفت.
